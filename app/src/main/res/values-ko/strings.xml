@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="resultText">결과</string>
+    <string name="btn_cal">계산!</string>
+</resources>

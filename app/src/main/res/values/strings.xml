@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="resultText">Result</string>
+    <string name="btn_cal">Go!</string>
+</resources>
